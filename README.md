@@ -1,6 +1,9 @@
 Mini Bit torrent
+
 Architecture Overview:
+
 The Following entities are present in the network :
+
 1. Tracker:
 
 a. Maintain information of clients with their files(shared by client) to assist the
