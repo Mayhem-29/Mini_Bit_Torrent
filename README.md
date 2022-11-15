@@ -1,6 +1,6 @@
 # Peer-to-Peer Group Based File Sharing System
 
-![alt text](https://github.com/[Mayhem-29]/[Mini_Bit_Torrent]/blob/[main]/torrent.jpeg?raw=true)
+![alt text](https://github.com/Mayhem-29/Mini_Bit_Torrent/blob/main/torrent.jpeg?raw=true)
 
 # Working
 
